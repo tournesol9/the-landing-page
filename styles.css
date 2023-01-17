@@ -1,18 +1,27 @@
 
+.section-one {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
 .header {
     display: flex;
     align-items: center;
     justify-content: center;
-    padding-left: 400px;
-    padding-right: 400px;
+    background-color: #422301f2;
+    color: #f9f7f8;
+    padding: 24px 0;
 }
 
 .logo {
-    margin-right: auto;
+    margin-right: 30%;
+    font-size: 24px;
 }
 
 ul{
+    margin: 0;
+    padding: 0;
     list-style: none;
     display: flex;
     gap: 1em;
+    font-size: 18px;
 }
