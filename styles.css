@@ -66,3 +66,11 @@ ul{
     font-size: 18px;
     color: #D0BDADDE;
 }
+
+button {
+    padding: 9px 34px;
+    border-radius: 8px;
+    font-size: 18px;
+    font-weight: bolder;
+    border: 0;
+}
