@@ -6,6 +6,12 @@ body {
     color: #D0BDAD;
 }
 
+.section-one,
+.section-four {
+    padding-left: 38vh;
+    padding-right: 38vh;
+}
+
 /* Section One: Header */
 
 .section-one {
