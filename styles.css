@@ -12,6 +12,10 @@ body {
 
 .section-one {
     padding-top: 48px;
+    display: flex;
+    flex-direction: column;
+    gap: 9em;
+    padding-bottom: 9em;
 }
 
 .header {
