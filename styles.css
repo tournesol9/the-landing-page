@@ -43,7 +43,8 @@ ul{
 
 .content-one {
     display: flex;
-    justify-content: space-around;
+    align-items: center;
+    justify-content: space-between;
 }
 
 .container-one {
