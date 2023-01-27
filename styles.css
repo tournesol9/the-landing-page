@@ -74,3 +74,8 @@ button {
     font-weight: bolder;
     border: 0;
 }
+
+.button-one {
+    color: #D0BDAD;
+    background-color: #A56754;
+}
