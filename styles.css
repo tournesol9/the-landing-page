@@ -55,3 +55,8 @@ ul{
 .header-image {
     max-width: 50%;
 }
+
+.title-one {
+    font-size: 48px;
+    font-weight: bolder;
+}
