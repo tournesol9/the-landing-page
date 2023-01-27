@@ -51,3 +51,7 @@ ul{
     display: flex;
     flex-direction: column;
 }
+
+.header-image {
+    max-width: 50%;
+}
