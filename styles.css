@@ -102,3 +102,8 @@ button {
     background-color: #D0BDAD;
     color: #2B2322;
 }
+
+.title-two {
+    font-size: 36px;
+    font-weight: bolder;
+}
