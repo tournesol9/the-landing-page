@@ -125,4 +125,6 @@ button {
     height: 180px; 
     object-fit: cover;
     object-position: 25% 25%;
+    border: #56382D 5px solid;
+    border-radius: 8px;
 }
