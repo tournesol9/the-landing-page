@@ -107,11 +107,14 @@ button {
 
 .picture-row {
     display: flex;
+    justify-content: center;
 }
 
 .pic-block {
     display: flex;
     flex-direction: column;
+    flex-wrap: wrap;
+    max-width: 180px;
 }
 
 .pic {
