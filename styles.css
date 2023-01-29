@@ -92,13 +92,8 @@ button {
 
 /* Section Two */
 
-.section-two {
-    display: flex;
-    flex-direction: column;
-    gap: 3em;
-    padding-top: 3em;
-    align-items: center;
-    justify-content: center;
+ .section-two {
+    padding-top: 5em;
     background-color: #D0BDAD;
     color: #2B2322;
 }
@@ -121,5 +116,5 @@ button {
     width: 180px; 
     height: 180px; 
     object-fit: cover;
-    object-position: 25% 25%; 
+    object-position: 25% 25%;
 }
