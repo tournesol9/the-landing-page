@@ -128,3 +128,7 @@ button {
     border: #56382D 5px solid;
     border-radius: 8px;
 }
+
+.text {
+    font-size: 18px;
+}
