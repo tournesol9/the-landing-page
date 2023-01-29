@@ -94,8 +94,10 @@ button {
 
  .section-two {
     padding-top: 5em;
+    padding-bottom: 6em;
     background-color: #D0BDAD;
     color: #2B2322;
+    text-align: center;
 }
 
 .title-two {
