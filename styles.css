@@ -7,6 +7,7 @@ body {
 }
 
 .section-one,
+.section-three,
 .section-four {
     padding-left: 38vh;
     padding-right: 38vh;
@@ -131,4 +132,29 @@ button {
 
 .text {
     font-size: 18px;
+}
+
+/* Section Three */
+
+.section-three {
+    background-color: #56382DF2;
+    color: #D0BDAD;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 30em;
+    gap: 1em;
+}
+
+.quote {
+    font-size: 36px;
+    font-weight: light;
+    font-style: italic;    
+}
+
+.quote-author {
+    align-self: flex-end;
+    font-size: 18px;
+    font-weight: bold;
 }
